@@ -1,6 +1,6 @@
 # Versión 1.0
 
-Estado: **completa y disponible**.
+Estado: **completa, autodidacta y disponible**.
 
 ## Alcance
 - 33 unidades en siete niveles;
@@ -23,3 +23,7 @@ Estado: **completa y disponible**.
 El curso cubre el recorrido definido desde la estructura HTML hasta diseño, accesibilidad, calidad y publicación de interfaces estáticas.
 
 JavaScript y React permanecen como cursos independientes.
+
+## Experiencia de aprendizaje
+
+El curso puede recorrerse de forma autónoma desde el funcionamiento básico de la Web y HTML semántico hasta CSS responsive, accesibilidad, rendimiento, metadatos y publicación. Las unidades combinan explicación, práctica, diagnóstico con DevTools, retos, autoevaluación y comprobaciones de accesibilidad y adaptación.
