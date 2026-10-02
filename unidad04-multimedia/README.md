@@ -1,17 +1,121 @@
 # Unidad 04 — Imágenes y contenido multimedia
 
+## Qué aprenderás
+Incluir imágenes con propósito, escribir alt según contexto y reducir problemas de layout/carga.
+
+# 1. Imagen
+
 ```html
-<img src="img/proyecto.jpg" alt="Prototipo de robot sobre una mesa">
+<img
+  src="img/proyecto.jpg"
+  alt="Prototipo de robot sobre una mesa"
+  width="1200"
+  height="800">
 ```
 
-## alt
-Describe la función/información relevante. Una imagen decorativa puede utilizar alt vacío.
+# 2. alt depende del contexto
 
-## figure
-Relaciona contenido visual y caption cuando aporta significado.
+Pregunta:
+> ¿qué información perdería alguien si no percibe esta imagen?
 
-## Dimensiones
-Definir width/height puede ayudar a reservar espacio y reducir saltos de layout.
+Una imagen informativa puede necesitar descripción.
 
-## Reto
-Construye una galería donde cada alt tenga sentido según contexto.
+Una puramente decorativa puede usar:
+
+```html
+alt=""
+```
+
+# 3. Función, no nombre de archivo
+
+Evita alt como:
+```text
+imagen.jpg
+foto
+imagen de...
+```
+
+Describe información o función relevante.
+
+# 4. Imagen como enlace
+
+Si es el único contenido del enlace, el alt debe comunicar función/destino.
+
+# 5. figure
+
+```html
+<figure>
+  <img src="img/prototipo.jpg" alt="...">
+  <figcaption>Prototipo final.</figcaption>
+</figure>
+```
+
+Úsalo cuando contenido visual y caption formen una unidad.
+
+# 6. Dimensiones
+
+width/height ayudan al navegador a reservar proporción/espacio y reducir layout shift.
+
+CSS fluido:
+
+```css
+img {
+  max-width: 100%;
+  height: auto;
+}
+```
+
+# 7. Formatos
+
+JPEG, PNG, WebP, AVIF y SVG tienen propiedades distintas.
+
+Elige según contenido, compatibilidad, transparencia y tamaño; no por moda.
+
+# 8. Lazy loading
+
+```html
+<img loading="lazy" ...>
+```
+
+Puede servir fuera del viewport.
+
+No lo apliques automáticamente a la imagen principal crítica sin medir.
+
+# 9. Audio/video
+
+Incluye controles y alternativas apropiadas. El contenido hablado/informativo puede requerir subtítulos o transcripción.
+
+# 10. Práctica guiada
+
+Crea galería con:
+- informativa;
+- decorativa;
+- imagen-enlace;
+- figure/caption.
+
+Justifica cada alt.
+
+# 11. Errores frecuentes
+- alt = archivo;
+- mismo alt para todo;
+- decorativa descrita innecesariamente;
+- imagen enorme reducida solo con CSS;
+- lazy en recurso crítico por reflejo.
+
+# 12. Reto
+Galería accesible y optimizada con justificación de alt/formato.
+
+# 13. Autoevaluación
+1. ¿Alt describe siempre apariencia?
+2. ¿Decorativa?
+3. ¿Imagen enlace?
+4. ¿Por qué width/height?
+5. ¿Lazy siempre?
+
+# 14. Checklist
+- [ ] Alt contextual.
+- [ ] Dimensiones.
+- [ ] Formato apropiado.
+- [ ] Multimedia accesible.
+
+Continúa con semántica.
