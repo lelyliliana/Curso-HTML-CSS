@@ -1,5 +1,7 @@
 # Curso de HTML y CSS desde cero
 
+**Versión 1.0**
+
 Curso abierto para aprender a construir **sitios web semánticos, accesibles, responsivos y mantenibles** con HTML y CSS.
 
 No requiere experiencia previa en desarrollo web.
