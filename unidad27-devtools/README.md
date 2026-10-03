@@ -1,5 +1,7 @@
 # Unidad 27 — DevTools, validación y depuración
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Diagnosticar HTML/CSS con evidencia, distinguir errores de estructura/estilo/recurso y validar sin editar a ciegas.
 
@@ -118,3 +120,12 @@ Bitácora de cinco fallos con síntoma, hipótesis, evidencia, corrección y ver
 - [ ] Registro evidencia.
 
 Continúa con rendimiento.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 26 — Accesibilidad visual y estados](../unidad26-accesibilidad-css/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 28 — Rendimiento web básico](../unidad28-rendimiento/README.md)

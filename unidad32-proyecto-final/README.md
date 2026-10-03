@@ -1,5 +1,7 @@
 # Unidad 32 — Proyecto final
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Propósito
 
 Construir y publicar un sitio que pueda comprenderse, adaptarse, navegarse y mantenerse.
@@ -182,3 +184,13 @@ Pregunta:
 # Cierre
 
 > Un buen sitio no es el que solo se ve bien en una captura: es el que conserva estructura, legibilidad, adaptación, accesibilidad y rendimiento cuando cambia el usuario, el dispositivo y el contenido.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 31 — Taller integrador de interfaces](../unidad31-taller/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+
+Llegaste a la última unidad. Revisa tu proyecto y la lista de comprobación antes de dar por terminado el curso.

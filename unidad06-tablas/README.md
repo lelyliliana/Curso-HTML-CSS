@@ -1,5 +1,7 @@
 # Unidad 06 — Tablas de datos
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Representar relaciones tabulares, identificar encabezados y hacer tablas comprensibles y adaptables.
 
@@ -91,3 +93,12 @@ Tabla con encabezados de fila/columna y estrategia móvil que preserve significa
 - [ ] Adaptación sin perder significado.
 
 Continúa con formularios.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 05 — HTML semántico](../unidad05-semantica/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 07 — Formularios](../unidad07-formularios/README.md)

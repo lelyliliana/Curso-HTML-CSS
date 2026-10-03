@@ -1,5 +1,7 @@
 # Unidad 24 — Transiciones y animaciones
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Añadir movimiento con propósito, distinguir transition/animation y respetar preferencias de reducción de movimiento.
 
@@ -104,3 +106,12 @@ Microinteracción con versión completa y reducida, explicando qué información
 - [ ] Interacción no bloqueada.
 
 Continúa con componentes.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 23 — Pseudoclases y pseudoelementos](../unidad23-pseudo/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 25 — Componentes y arquitectura CSS](../unidad25-componentes/README.md)

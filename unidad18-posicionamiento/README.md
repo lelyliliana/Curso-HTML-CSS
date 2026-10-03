@@ -1,5 +1,7 @@
 # Unidad 18 — Posicionamiento y capas
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Usar relative, absolute, fixed y sticky comprendiendo containing blocks y stacking contexts.
 
@@ -123,3 +125,12 @@ Componente con badge y cabecera sticky, documentando containing block y stacking
 - [ ] Evito z-index arbitrario.
 
 Continúa con responsive.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 17 — CSS Grid](../unidad17-grid/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 19 — Diseño responsive y mobile-first](../unidad19-responsive/README.md)

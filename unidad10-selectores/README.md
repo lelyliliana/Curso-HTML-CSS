@@ -1,5 +1,7 @@
 # Unidad 10 — Selectores y especificidad
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Seleccionar elementos sin acoplar el CSS innecesariamente al HTML y razonar sobre especificidad.
 
@@ -114,3 +116,12 @@ Diseña estilos de tarjeta que puedan reutilizarse en dos secciones sin aumentar
 - [ ] Reutilizo componentes.
 
 Continúa con box model.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 09 — CSS, cascada e herencia](../unidad09-css-cascada/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 11 — Modelo de caja](../unidad11-box-model/README.md)

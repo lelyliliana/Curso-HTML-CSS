@@ -1,5 +1,7 @@
 # Unidad 29 — SEO técnico básico y metadatos
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Crear metadatos útiles para buscadores y compartir contenido sin convertir HTML en una lista de “trucos SEO”.
 
@@ -124,3 +126,12 @@ Metadatos completos para un sitio real/ficticio explicando el propósito de cada
 - [ ] Social metadata coherente.
 
 Continúa con publicación.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 28 — Rendimiento web básico](../unidad28-rendimiento/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 30 — Publicación de un sitio estático](../unidad30-publicacion/README.md)

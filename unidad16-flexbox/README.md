@@ -1,5 +1,7 @@
 # Unidad 16 — Flexbox
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Distribuir ítems en un eje principal, controlar alineación y comprender grow, shrink, basis y wrap.
 
@@ -144,3 +146,12 @@ Componente de tarjetas flexible desde móvil a escritorio usando wrap y tamaños
 - [ ] Mantengo orden lógico.
 
 Continúa con Grid.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 15 — Flujo normal y display](../unidad15-flujo-display/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 17 — CSS Grid](../unidad17-grid/README.md)

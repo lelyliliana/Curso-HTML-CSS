@@ -1,5 +1,7 @@
 # Unidad 05 — HTML semántico
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Elegir elementos por significado y construir regiones/secciones comprensibles para personas, navegadores y tecnologías de asistencia.
 
@@ -109,3 +111,12 @@ Reestructura una landing completa y explica por qué cada región usa su element
 - [ ] No fuerzo semántica.
 
 Continúa con tablas.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 04 — Imágenes y contenido multimedia](../unidad04-multimedia/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 06 — Tablas de datos](../unidad06-tablas/README.md)

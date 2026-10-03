@@ -1,5 +1,7 @@
 # Unidad 03 — Enlaces y navegación
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Construir navegación entre páginas, entender rutas/fragmentos y escribir enlaces comprensibles.
 
@@ -96,3 +98,12 @@ Sitio de tres páginas con navegación, estado actual y enlaces internos.
 - [ ] Navegación coherente.
 
 Continúa con multimedia.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 02 — Texto, jerarquía y contenido](../unidad02-texto/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 04 — Imágenes y contenido multimedia](../unidad04-multimedia/README.md)

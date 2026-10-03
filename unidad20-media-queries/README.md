@@ -1,5 +1,7 @@
 # Unidad 20 — Media queries y container queries
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Cambiar estilos según capacidades/espacio cuando el diseño realmente lo necesita.
 
@@ -113,3 +115,12 @@ Layout con un breakpoint de página y un componente que responda a su contenedor
 - [ ] Diseño mejora progresivamente.
 
 Continúa con imágenes responsive.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 19 — Diseño responsive y mobile-first](../unidad19-responsive/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 21 — Imágenes responsive](../unidad21-imagenes-responsive/README.md)

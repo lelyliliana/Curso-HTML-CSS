@@ -1,5 +1,7 @@
 # Unidad 31 — Taller integrador de interfaces
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Propósito
 
 Construir interfaces sin que el enunciado diga “usa Flexbox”, “usa Grid” o “pon un breakpoint en 768px”.
@@ -106,3 +108,12 @@ Entrega:
 - [ ] Justificación.
 
 Continúa con proyecto final.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 30 — Publicación de un sitio estático](../unidad30-publicacion/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 32 — Proyecto final](../unidad32-proyecto-final/README.md)

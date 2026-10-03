@@ -1,5 +1,7 @@
 # Unidad 14 — Tipografía y legibilidad
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Construir jerarquía tipográfica, controlar longitud de línea y cargar fuentes sin sacrificar lectura o rendimiento.
 
@@ -95,3 +97,12 @@ Sistema tipográfico de cuatro roles con justificación y prueba a zoom.
 - [ ] Carga razonable.
 
 Continúa con flujo.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 13 — Color, fondos y contraste](../unidad13-color/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 15 — Flujo normal y display](../unidad15-flujo-display/README.md)

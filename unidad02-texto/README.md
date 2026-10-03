@@ -1,5 +1,7 @@
 # Unidad 02 — Texto, jerarquía y contenido
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Estructurar contenido por significado y crear una jerarquía que funcione incluso sin CSS.
 
@@ -86,3 +88,12 @@ Convierte una guía plana en HTML comprensible con CSS desactivado.
 - [ ] Contenido comprensible sin CSS.
 
 Continúa con enlaces.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 01 — Documento HTML](../unidad01-documento-html/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 03 — Enlaces y navegación](../unidad03-enlaces/README.md)

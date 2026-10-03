@@ -1,5 +1,7 @@
 # Unidad 09 — CSS, cascada e herencia
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Conectar CSS, comprender cómo el navegador decide qué declaración gana y diagnosticar estilos sin recurrir a !important.
 
@@ -121,3 +123,12 @@ Recibe un elemento con cinco reglas competidoras y explica exactamente por qué 
 - [ ] Diagnostico en DevTools.
 
 Continúa con selectores.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 08 — Accesibilidad HTML](../unidad08-accesibilidad/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 10 — Selectores y especificidad](../unidad10-selectores/README.md)

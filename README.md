@@ -1,5 +1,11 @@
 # Curso de HTML y CSS desde cero
 
+**[Comenzar el curso: Unidad 00 — Cómo funciona la Web y preparar el entorno](unidad00-web-entorno/README.md)**
+
+Puedes leer las lecciones aquí sin conocer GitHub. Al terminar cada unidad, usa **Siguiente unidad** para avanzar; **Unidad anterior** y **Volver al índice** te permiten regresar.
+
+[Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 **Versión 1.0**
 
 Curso abierto para aprender a construir **sitios web semánticos, accesibles, responsivos y mantenibles** con HTML y CSS.

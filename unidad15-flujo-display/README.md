@@ -1,5 +1,7 @@
 # Unidad 15 — Flujo normal y display
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Comprender dónde coloca el navegador los elementos antes de utilizar Flexbox, Grid o position.
 
@@ -80,3 +82,12 @@ Página simple solo con flujo normal y explicación de la posición de cada elem
 - [ ] Evito position innecesario.
 
 Continúa con Flexbox.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 14 — Tipografía y legibilidad](../unidad14-tipografia/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 16 — Flexbox](../unidad16-flexbox/README.md)

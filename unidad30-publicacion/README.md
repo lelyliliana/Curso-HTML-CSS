@@ -1,5 +1,7 @@
 # Unidad 30 — Publicación de un sitio estático
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Preparar un sitio portable, publicarlo y diagnosticar diferencias entre localhost y hosting.
 
@@ -133,3 +135,12 @@ Publica el sitio y realiza una auditoría desde la URL pública, no desde localh
 - [ ] README útil.
 
 Continúa con taller.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 29 — SEO técnico básico y metadatos](../unidad29-seo/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 31 — Taller integrador de interfaces](../unidad31-taller/README.md)

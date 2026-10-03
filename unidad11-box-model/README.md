@@ -1,5 +1,7 @@
 # Unidad 11 — Modelo de caja
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Calcular el espacio real de un elemento y comprender margin, border, padding, content, box-sizing y overflow.
 
@@ -111,3 +113,12 @@ Tarjeta de ancho estable con contenido largo y sin scroll horizontal accidental.
 - [ ] Diagnostico overflow.
 
 Continúa con unidades.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 10 — Selectores y especificidad](../unidad10-selectores/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 12 — Unidades, tamaños y límites](../unidad12-unidades/README.md)

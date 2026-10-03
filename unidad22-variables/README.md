@@ -1,5 +1,7 @@
 # Unidad 22 — Variables CSS y funciones
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Crear tokens con custom properties, comprender alcance/herencia y combinar calc, min, max y clamp.
 
@@ -127,3 +129,12 @@ Sistema pequeño de tokens con tema alternativo sin duplicar componentes.
 - [ ] Evito duplicación de tema.
 
 Continúa con pseudoclases.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 21 — Imágenes responsive](../unidad21-imagenes-responsive/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 23 — Pseudoclases y pseudoelementos](../unidad23-pseudo/README.md)

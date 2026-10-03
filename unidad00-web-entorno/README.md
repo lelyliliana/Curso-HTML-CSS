@@ -1,5 +1,7 @@
 # Unidad 00 — Cómo funciona la Web y preparar el entorno
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Comprender qué ocurre al abrir una página, distinguir archivo/URL/servidor y preparar un proyecto que puedas diagnosticar.
 
@@ -136,3 +138,11 @@ Crea sitio mínimo con HTML, CSS e imagen usando solo rutas relativas y comprueb
 - [ ] Diagnostico recursos.
 
 Continúa con HTML.
+
+
+---
+
+## Continuar el curso
+
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 01 — Documento HTML](../unidad01-documento-html/README.md)

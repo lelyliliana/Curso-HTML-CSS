@@ -1,5 +1,7 @@
 # Unidad 26 — Accesibilidad visual y estados
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Comprobar foco, contraste, reflow, preferencias y estados interactivos desde la capa CSS.
 
@@ -122,3 +124,12 @@ Corrige una biblioteca de componentes hasta que funcione con teclado, zoom y pre
 - [ ] Preferencias respetadas.
 
 Continúa con calidad y publicación.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 25 — Componentes y arquitectura CSS](../unidad25-componentes/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 27 — DevTools, validación y depuración](../unidad27-devtools/README.md)

@@ -1,5 +1,7 @@
 # Unidad 19 — Diseño responsive y mobile-first
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Construir interfaces que se adapten al espacio y al contenido antes de añadir breakpoints.
 
@@ -97,3 +99,12 @@ Página funcional desde 320px hasta pantalla amplia con el menor número de brea
 - [ ] Mantengo orden lógico.
 
 Continúa con media queries.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 18 — Posicionamiento y capas](../unidad18-posicionamiento/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 20 — Media queries y container queries](../unidad20-media-queries/README.md)

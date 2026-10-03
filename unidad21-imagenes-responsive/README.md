@@ -1,5 +1,7 @@
 # Unidad 21 — Imágenes responsive
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Servir imágenes adecuadas al espacio/densidad y distinguir resolución adaptable de dirección artística.
 
@@ -103,3 +105,12 @@ Hero responsive con evidencia en Network de que no siempre descarga el recurso m
 - [ ] Dirección artística cuando aplica.
 
 Continúa con variables.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 20 — Media queries y container queries](../unidad20-media-queries/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 22 — Variables CSS y funciones](../unidad22-variables/README.md)

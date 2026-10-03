@@ -1,5 +1,7 @@
 # Unidad 04 — Imágenes y contenido multimedia
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Incluir imágenes con propósito, escribir alt según contexto y reducir problemas de layout/carga.
 
@@ -119,3 +121,12 @@ Galería accesible y optimizada con justificación de alt/formato.
 - [ ] Multimedia accesible.
 
 Continúa con semántica.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 03 — Enlaces y navegación](../unidad03-enlaces/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 05 — HTML semántico](../unidad05-semantica/README.md)

@@ -1,5 +1,7 @@
 # Unidad 07 — Formularios
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Construir controles etiquetados, comprender name/value y usar validación HTML sin confundirla con validación de servidor.
 
@@ -135,3 +137,12 @@ Formulario accesible con instrucciones, errores nativos básicos y grupos correc
 - [ ] Validación básica.
 
 Continúa con accesibilidad.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 06 — Tablas de datos](../unidad06-tablas/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 08 — Accesibilidad HTML](../unidad08-accesibilidad/README.md)

@@ -1,5 +1,7 @@
 # Unidad 28 — Rendimiento web básico
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Medir una página, identificar recursos costosos y mejorar carga sin sacrificar calidad o accesibilidad.
 
@@ -121,3 +123,12 @@ Informe antes/después con evidencia y explicación de qué cambió realmente.
 - [ ] No persigo métricas vacías.
 
 Continúa con metadatos.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 27 — DevTools, validación y depuración](../unidad27-devtools/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 29 — SEO técnico básico y metadatos](../unidad29-seo/README.md)

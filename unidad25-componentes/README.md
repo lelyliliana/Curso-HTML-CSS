@@ -1,5 +1,7 @@
 # Unidad 25 — Componentes y arquitectura CSS
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Crear componentes reutilizables con estados claros y organizar CSS para reducir acoplamiento.
 
@@ -133,3 +135,12 @@ Biblioteca mínima de cuatro componentes con tokens, estados y documentación de
 - [ ] Layout separado.
 
 Continúa con accesibilidad CSS.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 24 — Transiciones y animaciones](../unidad24-animaciones/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 26 — Accesibilidad visual y estados](../unidad26-accesibilidad-css/README.md)

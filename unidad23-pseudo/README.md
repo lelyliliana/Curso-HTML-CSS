@@ -1,5 +1,7 @@
 # Unidad 23 — Pseudoclases y pseudoelementos
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Diseñar estados interactivos y contenido decorativo sin confundir estado, estructura y accesibilidad.
 
@@ -118,3 +120,12 @@ Componente interactivo cuyos estados sean distinguibles sin depender solo de col
 - [ ] Pseudoelementos decorativos.
 
 Continúa con animaciones.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 22 — Variables CSS y funciones](../unidad22-variables/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 24 — Transiciones y animaciones](../unidad24-animaciones/README.md)

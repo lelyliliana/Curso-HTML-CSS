@@ -1,5 +1,7 @@
 # Unidad 17 — CSS Grid
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Construir layouts bidimensionales con tracks, gaps y tamaños flexibles, y decidir cuándo Grid o Flex expresa mejor la relación espacial.
 
@@ -128,3 +130,12 @@ Dashboard responsive con Grid y componentes internos Flex, justificando cada ele
 - [ ] Mantengo DOM lógico.
 
 Continúa con posicionamiento.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 16 — Flexbox](../unidad16-flexbox/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 18 — Posicionamiento y capas](../unidad18-posicionamiento/README.md)

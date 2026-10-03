@@ -1,5 +1,7 @@
 # Unidad 13 — Color, fondos y contraste
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Usar color dentro de un sistema visual sin convertirlo en el único canal de información.
 
@@ -90,3 +92,12 @@ Paleta pequeña con estados y comprobación de contraste.
 - [ ] Estados accesibles.
 
 Continúa con tipografía.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 12 — Unidades, tamaños y límites](../unidad12-unidades/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 14 — Tipografía y legibilidad](../unidad14-tipografia/README.md)

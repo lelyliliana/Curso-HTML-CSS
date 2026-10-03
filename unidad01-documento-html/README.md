@@ -1,5 +1,7 @@
 # Unidad 01 — Documento HTML
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Construir un documento válido, comprender elementos/atributos/anidación y separar metadatos de contenido visible.
 
@@ -130,3 +132,12 @@ Documento completo válido y explica la función de cada línea del esqueleto.
 - [ ] Distingo metadatos/contenido.
 
 Continúa con texto.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 00 — Cómo funciona la Web y preparar el entorno](../unidad00-web-entorno/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 02 — Texto, jerarquía y contenido](../unidad02-texto/README.md)

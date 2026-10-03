@@ -1,5 +1,7 @@
 # Unidad 08 — Accesibilidad HTML
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Evaluar una página con semántica, teclado, nombres accesibles y alternativas antes de depender de ARIA.
 
@@ -126,3 +128,12 @@ Corrige cinco barreras y explica cómo verificaste cada una.
 - [ ] Verificación manual.
 
 Continúa con CSS.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 07 — Formularios](../unidad07-formularios/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 09 — CSS, cascada e herencia](../unidad09-css-cascada/README.md)

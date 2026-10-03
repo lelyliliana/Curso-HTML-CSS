@@ -1,5 +1,7 @@
 # Unidad 12 — Unidades, tamaños y límites
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
+
 ## Qué aprenderás
 Elegir unidades relativas/absolutas y crear tamaños fluidos sin impedir zoom ni adaptación.
 
@@ -108,3 +110,12 @@ Layout fluido sin media query que mantenga límites legibles.
 - [ ] Evito rigidez innecesaria.
 
 Continúa con color.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 11 — Modelo de caja](../unidad11-box-model/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 13 — Color, fondos y contraste](../unidad13-color/README.md)
