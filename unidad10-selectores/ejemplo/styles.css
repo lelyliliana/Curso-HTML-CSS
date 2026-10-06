@@ -1,0 +1,10 @@
+/* Estilos de presentación comunes. Las reglas del tema aparecen después. */
+body { margin: 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #172554; background: #fff; }
+img { max-width: 100%; height: auto; }
+a { color: #075985; }
+button, input, select, textarea { font: inherit; }
+:focus-visible { outline: 3px solid #075985; outline-offset: 3px; }
+.panel { border: 2px solid #075985; padding: 1rem; }
+.panel > p { background: #f0f9ff; }
+.recursos a { text-decoration-thickness: .15em; }
+.recursos a.especial { font-weight: bold; }

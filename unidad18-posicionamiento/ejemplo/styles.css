@@ -1,0 +1,8 @@
+/* Estilos de presentación comunes. Las reglas del tema aparecen después. */
+body { margin: 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #172554; background: #fff; }
+img { max-width: 100%; height: auto; }
+a { color: #075985; }
+button, input, select, textarea { font: inherit; }
+:focus-visible { outline: 3px solid #075985; outline-offset: 3px; }
+.tarjeta { position: relative; border: 2px solid #075985; padding: 3.5rem 1rem 1rem; max-width: 32rem; }
+.sello { position: absolute; inset-block-start: .75rem; inset-inline-end: .75rem; background: #075985; color: white; padding: .25rem .5rem; }

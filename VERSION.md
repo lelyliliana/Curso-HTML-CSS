@@ -1,29 +1,17 @@
-# Versión 1.0
+# Versión 1.1
 
-Estado: **completa, autodidacta y disponible**.
+Curso de 33 unidades para aprender HTML y CSS desde el entorno local hasta publicación y proyectos. Las unidades 00 a 30 incluyen ejemplos completos y todas las unidades tienen práctica y solución razonada. El taller y el proyecto final trabajan un sitio de varias páginas.
 
 ## Alcance
-- 33 unidades en siete niveles;
-- HTML semántico;
-- formularios, tablas, multimedia y accesibilidad;
-- cascada, especificidad y box model;
-- tipografía, color y unidades;
-- Flexbox, Grid y posicionamiento;
-- responsive y media queries;
-- CSS moderno, componentes y animaciones;
-- accesibilidad visual;
-- DevTools y diagnóstico;
-- rendimiento y SEO técnico básico;
-- publicación estática;
-- sitio de referencia;
-- taller;
-- proyecto final con plantilla, rúbrica y checklist.
 
-## Criterio de cierre
-El curso cubre el recorrido definido desde la estructura HTML hasta diseño, accesibilidad, calidad y publicación de interfaces estáticas.
+HTML semántico, texto, navegación, imágenes, tablas, formularios y accesibilidad. CSS con cascada, selectores, modelo de caja, unidades, color y tipografía. Flujo, Flexbox, Grid, posición, diseño adaptable, imágenes responsivas, variables, estados y movimiento. Diagnóstico, recursos, metadatos y publicación estática.
 
-JavaScript y React permanecen como cursos independientes.
+## Ejecución
 
-## Experiencia de aprendizaje
+Los ejemplos no requieren compilar ni instalar paquetes. La guía de entorno incluye Ubuntu, Windows y macOS. La comprobación opcional de estructura utiliza Python; las pruebas de navegador tienen su instalación específica documentada. JavaScript y React se estudian en cursos independientes.
 
-El curso puede recorrerse de forma autónoma desde el funcionamiento básico de la Web y HTML semántico hasta CSS responsive, accesibilidad, rendimiento, metadatos y publicación. Las unidades combinan explicación, práctica, diagnóstico con DevTools, retos, autoevaluación y comprobaciones de accesibilidad y adaptación.
+## Límites de los proyectos
+
+Los formularios de referencia son demostraciones identificadas con datos ficticios, validación nativa y navegación GET. No tienen backend, persistencia ni envío de correo. La publicación no añade esos servicios.
+
+[Índice del curso](README.md) · [Verificación](docs/VERIFICACION.md)

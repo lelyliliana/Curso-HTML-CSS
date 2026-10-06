@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Biblioteca del barrio | Contacto de demostración</title>
+  <link rel="stylesheet" href="styles.css">
+  <meta name="description" content="Practica un formulario etiquetado con validación nativa y datos ficticios.">
+</head>
+<body>
+  <a class="saltar" href="#contenido">Saltar al contenido</a>
+  <header class="cabecera"><div class="contenedor barra"><a class="marca" href="index.html">Biblioteca del barrio</a><nav aria-label="Principal"><a href="index.html">Inicio</a>
+<a href="talleres.html">Talleres</a>
+<a href="contacto.html" aria-current="page">Contacto</a></nav></div></header>
+  <main id="contenido" tabindex="-1" class="contenedor"><h1>Contacto de demostración</h1><p class="aviso" id="alcance"><strong>Demostración:</strong> no se envía correo ni se guarda una consulta. Usa datos ficticios; la información se incorpora a la URL para estudiar un formulario GET.</p>
+<form class="formulario" action="resultado.html" method="get" aria-describedby="alcance">
+<div class="campo"><label for="nombre">Nombre ficticio (obligatorio)</label><input id="nombre" name="nombre" minlength="2" maxlength="80" required autocomplete="off"></div>
+<div class="campo"><label for="correo">Correo ficticio (obligatorio)</label><input id="correo" name="correo" type="email" maxlength="120" required autocomplete="off" aria-describedby="correo-ayuda"><p id="correo-ayuda" class="ayuda">Puedes usar ana@example.com. El formato no demuestra que la cuenta exista.</p></div>
+<fieldset><legend>Taller sobre el que quieres practicar la consulta (obligatorio)</legend><label><input type="radio" name="taller" value="lectura" required> Lectura</label><label><input type="radio" name="taller" value="robotica"> Robótica</label><label><input type="radio" name="taller" value="arte"> Arte</label></fieldset>
+<div class="campo"><label for="mensaje">Mensaje ficticio (obligatorio, al menos 10 caracteres)</label><textarea id="mensaje" name="mensaje" minlength="10" maxlength="500" rows="5" required aria-describedby="mensaje-ayuda"></textarea><p id="mensaje-ayuda" class="ayuda">Describe una pregunta de práctica; no escribas datos personales reales.</p></div>
+<button class="accion" type="submit">Comprobar y abrir resultado local</button></form></main>
+  <footer class="pie"><div class="contenedor"><p>Proyecto educativo con información ficticia. HTML y CSS.</p><a href="contacto.html">Cómo consultar</a></div></footer>
+</body>
+</html>

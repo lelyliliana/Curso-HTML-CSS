@@ -1,0 +1,9 @@
+/* Estilos de presentación comunes. Las reglas del tema aparecen después. */
+body { margin: 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #172554; background: #fff; }
+img { max-width: 100%; height: auto; }
+a { color: #075985; }
+button, input, select, textarea { font: inherit; }
+:focus-visible { outline: 3px solid #075985; outline-offset: 3px; }
+.agenda { display: grid; gap: 1rem; }
+.agenda article { padding: 1rem; border: 2px solid #075985; }
+@media (min-width: 42rem) { .agenda { grid-template-columns: repeat(2, minmax(0, 1fr)); } }

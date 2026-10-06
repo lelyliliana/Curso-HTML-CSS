@@ -1,4 +1,4 @@
-# Unidad 22 — Variables CSS y funciones
+# Unidad 22: Variables CSS y funciones
 
 [Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/)
 
@@ -96,6 +96,7 @@ Esto permite temas/contextos dinámicos sin recompilar CSS.
 # 9. Práctica guiada
 
 Extrae de una página:
+
 - espacios;
 - radios;
 - superficies;
@@ -105,6 +106,7 @@ Extrae de una página:
 Crea tokens semánticos y un segundo tema.
 
 # 10. Errores frecuentes
+
 - variable para cada literal sin sistema;
 - nombres ligados a color actual;
 - no comprender alcance;
@@ -115,6 +117,7 @@ Crea tokens semánticos y un segundo tema.
 Sistema pequeño de tokens con tema alternativo sin duplicar componentes.
 
 # 12. Autoevaluación
+
 1. ¿Custom property hereda?
 2. ¿Qué hace var fallback?
 3. ¿Token semántico?
@@ -123,6 +126,7 @@ Sistema pequeño de tokens con tema alternativo sin duplicar componentes.
 6. ¿Custom property existe solo al compilar?
 
 # 13. Checklist
+
 - [ ] Tokens con significado.
 - [ ] Comprendo alcance.
 - [ ] Uso funciones fluidas.
@@ -131,10 +135,63 @@ Sistema pequeño de tokens con tema alternativo sin duplicar componentes.
 Continúa con pseudoclases.
 
 
+
+## Laboratorio completo: Variables para un sistema visual
+
+### Comprender antes de modificar
+
+Las propiedades personalizadas participan en la cascada y normalmente se heredan. Una declaración en :root ofrece valores generales; una redefinición en .tema afecta esa tarjeta y sus descendientes. No reemplaza automáticamente cualquier color escrito como literal. Para recibir el cambio, la declaración debe utilizar var(--acento).
+
+Los nombres pueden describir propósito, como acento o espacio, en vez de un color concreto que luego cambie. Un fallback var(--token,valor) se usa ante ciertas situaciones de ausencia o valor inválido de la propiedad personalizada, pero no convierte cualquier resultado inválido en CSS válido. Los tokens ayudan a mantener consistencia; no prueban contraste ni garantizan que todos los componentes se adapten a cualquier tema. Después de cambiar un token verifica sus usos reales y los estados de interacción.
+
+### Archivos y ejecución
+
+Abre [ejemplo/index.html](ejemplo/index.html) desde tu copia del curso. El código fuente en GitHub se muestra como texto; para ver la página abre el archivo descargado o usa el servidor descrito en [Preparar el entorno](../docs/ENTORNO.md). HTML y CSS no necesitan compilarse.
+
+El documento enlaza [ejemplo/styles.css](ejemplo/styles.css). Las primeras reglas de ese archivo proporcionan presentación común (fuente, color y foco); las posteriores corresponden al tema. Para estudiar HTML puedes desactivar temporalmente la hoja. No borres reglas comunes sin revisar su función.
+
+### Qué debe ocurrir
+
+La primera tarjeta y su enlace son azules; la segunda utiliza púrpura. Espacio y radio se mantienen iguales. En Computed puedes reconocer el valor heredado de --acento.
+
+### Leer el código del ejemplo
+
+Este fragmento es el contenido de body del archivo completo, no un segundo documento que deba pegarse después de html:
+
+```html
+<main><h1>Tokens de diseño</h1><article class="tarjeta"><h2>Lectura</h2><p>Una tarjeta reutiliza color y espacio.</p><a href="#nota">Ver detalles</a></article><article class="tarjeta tema"><h2>Robótica</h2><p>La segunda tarjeta cambia el token de acento.</p><a href="#nota">Ver detalles</a></article><p id="nota">Los contenidos comparten una estructura.</p></main>
+```
+
+Las reglas específicas del tema son:
+
+```css
+:root { --acento: #075985; --espacio: 1rem; --radio: .5rem; }
+.tarjeta { border: 2px solid var(--acento); padding: var(--espacio); border-radius: var(--radio); margin-block: var(--espacio); }
+.tarjeta a { color: var(--acento); }
+.tema { --acento: #6b21a8; }
+
+```
+
+### Experimento y explicación
+
+Añade una tercera tarjeta con otro acento oscuro. Cambia --espacio solo en esa tarjeta. Comprueba qué descendientes heredan la variable y mide contraste del nuevo enlace.
+
+Antes de modificar, escribe tu predicción. Guarda una copia del ejemplo, cambia una condición a la vez y compara lo observado. Conserva el archivo original como referencia; la solución está en [SOLUCIONES.md](SOLUCIONES.md).
+
+### Diagnóstico de un fallo concreto
+
+**Situación:** Escribes var(acento) y el borde no toma el color.
+
+**Cómo resolver:** El nombre de una propiedad personalizada comienza por --. Comprueba sintaxis y nombre exacto: var(--acento).
+
+### Práctica autónoma
+
+Completa [PRACTICA.md](PRACTICA.md) antes de avanzar. Incluye la modificación, el resultado esperado y la evidencia de comprobación. Una captura puede apoyar el análisis, pero no sustituye probar el comportamiento indicado.
+
 ---
 
 ## Continuar el curso
 
-- **Unidad anterior:** [Unidad 21 — Imágenes responsive](../unidad21-imagenes-responsive/README.md)
+- **Unidad anterior:** [Unidad 21: Imágenes responsive](../unidad21-imagenes-responsive/README.md)
 - **Volver al índice:** [Todas las unidades](../README.md)
-- **Siguiente unidad:** [Unidad 23 — Pseudoclases y pseudoelementos](../unidad23-pseudo/README.md)
+- **Siguiente unidad:** [Unidad 23: Pseudoclases y pseudoelementos](../unidad23-pseudo/README.md)

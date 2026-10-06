@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Formulario de práctica</title>
+  <link rel="stylesheet" href="styles.css">
+  <meta name="description" content="Ejemplo educativo de Formulario de práctica.">
+</head>
+<body>
+<main><h1>Elegir un taller</h1><p id="aviso">Demostración local: no se envían datos a una organización. Usa información ficticia.</p>
+<form action="resultado.html" method="get" aria-describedby="aviso">
+  <p><label for="nombre">Nombre ficticio (obligatorio)</label><br><input id="nombre" name="nombre" autocomplete="off" required minlength="2"></p>
+  <p><label for="correo">Correo ficticio (obligatorio)</label><br><input id="correo" name="correo" type="email" autocomplete="off" required></p>
+  <fieldset><legend>Taller preferido</legend><label><input type="radio" name="taller" value="lectura" required> Lectura</label><label><input type="radio" name="taller" value="robotica"> Robótica</label></fieldset>
+  <p><button type="submit">Comprobar formulario local</button></p>
+</form></main>
+</body>
+</html>

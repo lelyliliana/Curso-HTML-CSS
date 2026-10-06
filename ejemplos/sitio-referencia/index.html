@@ -35,14 +35,15 @@
   </section>
   <section id="contacto" class="container section">
    <h2>Contacto</h2>
-   <form class="form">
+   <p id="aviso-formulario">Demostración estática: no envía correo ni guarda mensajes. Usa datos ficticios; GET los incorpora a la URL.</p>
+   <form class="form" action="resultado.html" method="get" aria-describedby="aviso-formulario">
     <label for="nombre">Nombre</label>
     <input id="nombre" name="nombre" autocomplete="name" required>
     <label for="correo">Correo</label>
     <input id="correo" name="correo" type="email" autocomplete="email" required>
     <label for="mensaje">Mensaje</label>
     <textarea id="mensaje" name="mensaje" rows="5" required></textarea>
-    <button class="button" type="submit">Enviar</button>
+    <button class="button" type="submit">Comprobar demostración</button>
    </form>
   </section>
  </main>

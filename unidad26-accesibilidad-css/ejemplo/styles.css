@@ -1,0 +1,11 @@
+/* Estilos de presentación comunes. Las reglas del tema aparecen después. */
+body { margin: 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #172554; background: #fff; }
+img { max-width: 100%; height: auto; }
+a { color: #075985; }
+button, input, select, textarea { font: inherit; }
+:focus-visible { outline: 3px solid #075985; outline-offset: 3px; }
+.lectura { max-width: 65ch; }
+.accion { display: inline-block; padding: .75rem 1rem; border: 2px solid currentColor; }
+.saltar { position: absolute; top: -5rem; left: 1rem; background: white; }
+.saltar:focus { top: .5rem; }
+:focus-visible { outline: 3px solid #9f1239; outline-offset: 3px; }

@@ -1,0 +1,49 @@
+/* 1. Tokens y fundamentos */
+:root { --tinta: #172554; --acento: #075985; --fondo: #f0f9ff; --borde: #64748b; --radio: .75rem; --espacio: 1rem; }
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; color: var(--tinta); background: white; font: 1rem/1.6 system-ui, sans-serif; overflow-wrap: anywhere; }
+h1, h2, h3 { line-height: 1.2; }
+h1 { font-size: clamp(1.8rem, 4vw, 3rem); }
+img { display: block; max-width: 100%; height: auto; }
+a { color: var(--acento); text-underline-offset: .2em; }
+button, input, select, textarea { font: inherit; }
+:focus-visible { outline: 3px solid #9f1239; outline-offset: 4px; }
+/* 2. Distribución */
+.contenedor { width: min(100% - 2rem, 70rem); margin-inline: auto; }
+.cabecera, .pie { background: var(--fondo); padding-block: 1rem; }
+.barra { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+.marca { font-size: 1.25rem; font-weight: 700; }
+nav { display: flex; flex-wrap: wrap; gap: .5rem 1rem; }
+nav a { padding: .5rem; }
+[aria-current="page"] { font-weight: 700; text-decoration-thickness: .2em; }
+main { padding-block: 2rem; }
+section { margin-block: 2rem; }
+.hero { display: grid; align-items: center; gap: 2rem; }
+.hero p { max-width: 60ch; }
+.rejilla { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr)); gap: 1rem; }
+/* 3. Componentes */
+.tarjeta { border: 2px solid var(--borde); border-radius: var(--radio); padding: 1.25rem; min-width: 0; overflow-wrap: anywhere; }
+.tarjeta h3 { margin-block-start: 0; }
+.tarjeta--destacada { border-color: var(--acento); background: var(--fondo); }
+.accion { display: inline-block; padding: .65rem 1rem; background: var(--acento); color: white; border: 2px solid var(--acento); border-radius: .35rem; text-decoration: none; }
+.accion:hover { background: #0c4a6e; }
+.aviso { padding: 1rem; border-inline-start: .35rem solid var(--acento); background: var(--fondo); }
+.formulario { max-width: 42rem; }
+.campo { display: grid; gap: .35rem; margin-block: 1rem; }
+input:not([type="radio"]), select, textarea { width: 100%; min-width: 0; padding: .65rem; color: var(--tinta); background: white; border: 2px solid var(--borde); border-radius: .25rem; }
+fieldset { margin-block: 1rem; border: 2px solid var(--borde); padding: 1rem; }
+fieldset label { display: block; margin-block: .5rem; }
+.ayuda { margin: 0; font-size: .95rem; }
+table { width: 100%; border-collapse: collapse; }
+th, td { text-align: left; border-bottom: 1px solid var(--borde); padding: .65rem; }
+caption { text-align: left; font-weight: 700; margin-block-end: .5rem; }
+.tabla-scroll { overflow-x: auto; }
+.tabla-scroll:focus-visible { outline-offset: 2px; }
+details { border: 1px solid var(--borde); border-radius: .35rem; padding: .75rem; margin-block: 1rem; }
+summary { cursor: pointer; font-weight: 700; }
+.saltar { position: absolute; top: -6rem; left: 1rem; background: white; color: var(--acento); padding: .75rem; z-index: 10; }
+.saltar:focus { top: .5rem; }
+/* 4. Adaptación */
+@media (min-width: 52rem) { .hero { grid-template-columns: 1fr 1fr; } }
+@media (prefers-reduced-motion: no-preference) { .accion { transition: background-color 150ms ease; } }
+@media print { .cabecera nav, .saltar, .formulario button { display: none; } body { color: #000; } main { padding: 0; } }
