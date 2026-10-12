@@ -147,3 +147,11 @@ Completa [PRACTICA.md](PRACTICA.md) antes de avanzar. Incluye la modificación, 
 - **Unidad anterior:** [Unidad 14: Tipografía y legibilidad](../unidad14-tipografia/README.md)
 - **Volver al índice:** [Todas las unidades](../README.md)
 - **Siguiente unidad:** [Unidad 16: Flexbox](../unidad16-flexbox/README.md)
+
+---
+
+### ¿Necesitas apoyo con este tema?
+
+Si te bloqueaste con la práctica, necesitas revisar tu entorno o adaptar lo aprendido a tu proyecto, podemos trabajarlo en una sesión personalizada.
+
+[**Solicitar asesoría para este tema por WhatsApp**](https://wa.me/573103618296?text=Hola%2C%20Leli.%20Estoy%20estudiando%20Unidad%2015%20%E2%80%94%20Flujo%20normal%20y%20display%20del%20curso%20HTML%20y%20CSS%20desde%20cero%20%28https%3A%2F%2Fgithub.com%2Flelyliliana%2FCurso-HTML-CSS%2Ftree%2Fmain%2Funidad15-flujo-display%29%20y%20necesito%20una%20asesor%C3%ADa%20personalizada.%20Mi%20duda%20es%E2%80%A6)

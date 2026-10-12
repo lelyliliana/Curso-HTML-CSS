@@ -149,3 +149,11 @@ Completa [PRACTICA.md](PRACTICA.md) antes de avanzar. Incluye la modificación, 
 - **Unidad anterior:** [Unidad 01: Documento HTML](../unidad01-documento-html/README.md)
 - **Volver al índice:** [Todas las unidades](../README.md)
 - **Siguiente unidad:** [Unidad 03: Enlaces y navegación](../unidad03-enlaces/README.md)
+
+---
+
+### ¿Necesitas apoyo con este tema?
+
+Si te bloqueaste con la práctica, necesitas revisar tu entorno o adaptar lo aprendido a tu proyecto, podemos trabajarlo en una sesión personalizada.
+
+[**Solicitar asesoría para este tema por WhatsApp**](https://wa.me/573103618296?text=Hola%2C%20Leli.%20Estoy%20estudiando%20Unidad%2002%20%E2%80%94%20Texto%2C%20jerarqu%C3%ADa%20y%20contenido%20del%20curso%20HTML%20y%20CSS%20desde%20cero%20%28https%3A%2F%2Fgithub.com%2Flelyliliana%2FCurso-HTML-CSS%2Ftree%2Fmain%2Funidad02-texto%29%20y%20necesito%20una%20asesor%C3%ADa%20personalizada.%20Mi%20duda%20es%E2%80%A6)

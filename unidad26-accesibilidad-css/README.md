@@ -194,3 +194,11 @@ Completa [PRACTICA.md](PRACTICA.md) antes de avanzar. Incluye la modificación, 
 - **Unidad anterior:** [Unidad 25: Componentes y arquitectura CSS](../unidad25-componentes/README.md)
 - **Volver al índice:** [Todas las unidades](../README.md)
 - **Siguiente unidad:** [Unidad 27: DevTools, validación y depuración](../unidad27-devtools/README.md)
+
+---
+
+### ¿Necesitas apoyo con este tema?
+
+Si te bloqueaste con la práctica, necesitas revisar tu entorno o adaptar lo aprendido a tu proyecto, podemos trabajarlo en una sesión personalizada.
+
+[**Solicitar asesoría para este tema por WhatsApp**](https://wa.me/573103618296?text=Hola%2C%20Leli.%20Estoy%20estudiando%20Unidad%2026%20%E2%80%94%20Accesibilidad%20visual%20y%20estados%20del%20curso%20HTML%20y%20CSS%20desde%20cero%20%28https%3A%2F%2Fgithub.com%2Flelyliliana%2FCurso-HTML-CSS%2Ftree%2Fmain%2Funidad26-accesibilidad-css%29%20y%20necesito%20una%20asesor%C3%ADa%20personalizada.%20Mi%20duda%20es%E2%80%A6)
